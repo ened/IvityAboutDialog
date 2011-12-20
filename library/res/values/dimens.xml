@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="default_padding">10dip</dimen>
+
+</resources>
